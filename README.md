@@ -30,12 +30,12 @@ Repositório criado para armazenar exercícios, exemplos e projetos desenvolvido
 
 ---
 
-## Tecnologias
+## Ferramentas Utilizadas
 
-- Java
-- Git
-- GitHub
-- IntelliJ IDEA
+- Java (Linguagem de Programação)
+- IntelliJ IDEA (Ambiente de Desenvolvimento / IDE)
+- Git (Controle de Versão)
+- GitHub (Hospedagem e Compartilhamento de Código)
 
 ---
 
