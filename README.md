@@ -8,7 +8,7 @@ Repositório criado para armazenar exercícios, exemplos e projetos desenvolvido
 
 - [x] Classes e Objetos
 - [x] Atributos e Métodos
-- [ ] Encapsulamento
+- [x] Encapsulamento
 - [ ] Herança
 - [ ] Polimorfismo
 - [ ] Abstração
