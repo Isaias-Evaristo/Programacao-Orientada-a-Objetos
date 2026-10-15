@@ -13,7 +13,7 @@ Repositório criado para armazenar exercícios, exemplos e projetos desenvolvido
 - [x] Polimorfismo
 - [x] Abstração
 - [x] Interfaces
-- [ ] Tratamento de Exceções
+- [x] Tratamento de Exceções
 
 ---
 
