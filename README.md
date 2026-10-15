@@ -7,7 +7,7 @@ Repositório criado para armazenar exercícios, exemplos e projetos desenvolvido
 ## Conteúdos Estudados
 
 - [x] Classes e Objetos
-- [ ] Atributos e Métodos
+- [x] Atributos e Métodos
 - [ ] Encapsulamento
 - [ ] Herança
 - [ ] Polimorfismo
