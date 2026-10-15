@@ -12,7 +12,7 @@ Repositório criado para armazenar exercícios, exemplos e projetos desenvolvido
 - [x] Herança
 - [x] Polimorfismo
 - [x] Abstração
-- [ ] Interfaces
+- [x] Interfaces
 - [ ] Tratamento de Exceções
 
 ---
