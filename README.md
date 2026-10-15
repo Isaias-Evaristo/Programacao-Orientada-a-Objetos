@@ -9,7 +9,7 @@ Repositório criado para armazenar exercícios, exemplos e projetos desenvolvido
 - [x] Classes e Objetos
 - [x] Atributos e Métodos
 - [x] Encapsulamento
-- [ ] Herança
+- [x] Herança
 - [ ] Polimorfismo
 - [ ] Abstração
 - [ ] Interfaces
