@@ -10,7 +10,7 @@ Repositório criado para armazenar exercícios, exemplos e projetos desenvolvido
 - [x] Atributos e Métodos
 - [x] Encapsulamento
 - [x] Herança
-- [ ] Polimorfismo
+- [x] Polimorfismo
 - [ ] Abstração
 - [ ] Interfaces
 - [ ] Tratamento de Exceções
