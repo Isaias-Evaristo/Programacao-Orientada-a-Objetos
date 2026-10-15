@@ -11,7 +11,7 @@ Repositório criado para armazenar exercícios, exemplos e projetos desenvolvido
 - [x] Encapsulamento
 - [x] Herança
 - [x] Polimorfismo
-- [ ] Abstração
+- [x] Abstração
 - [ ] Interfaces
 - [ ] Tratamento de Exceções
 
